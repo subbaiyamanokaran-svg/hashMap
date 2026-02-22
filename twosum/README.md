@@ -1,0 +1,2 @@
+### two sum using HashMap 
+    I have used HashMa for Two sum which is 2 ms in leetcode and there is another approach which is 0 ms but as leetcode has not that huge testcase it shows that this algorithm is not efficient but it is the efficient one if the input data is huge with the time complexity of O(n).
